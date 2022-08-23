@@ -1,0 +1,14 @@
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.csproj.AssemblyReference.cache
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.AssemblyInfoInputs.cache
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.AssemblyInfo.cs
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.exe
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.deps.json
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.runtimeconfig.json
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.runtimeconfig.dev.json
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.dll
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\bin\Debug\netcoreapp3.1\StacksAndQueue.pdb
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.dll
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.pdb
+C:\Users\bagav\saran\visual studio\Day14\StacksAndQueue\obj\Debug\netcoreapp3.1\StacksAndQueue.genruntimeconfig.cache
